@@ -1,1 +1,1 @@
-# Na-ve-Bees-Image-Loading-and-Processing
+# Naive-Bees-Image-Loading-and-Processing
